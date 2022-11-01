@@ -1,1 +1,1 @@
-[h, e, l, p, <Key.space:  >, <Key.space:  >, l, e, a, s][h, h, h, h, h, <Key.backspace: <8>>, <Key.backspace: <8>>, <Key.backspace: <8>>, <Key.backspace: <8>>, <Key.backspace: <8>>][<Key.backspace: <8>>, <Key.ctrl_l: <162>>, <Key.backspace: <8>>, <Key.backspace: <8>>, <Key.backspace: <8>>, <Key.space:  >, <Key.space:  >, <Key.space:  >, <Key.space:  >, <Key.space:  >][n, h, e, j, f, e, s, h, f, h][k, s, h, f, k, j, s, h, f, k][s, e, h, f, k, s, e, f, h, k][s, e, j, f, h, k, s, j, e, f][h, k, j, s, e, f, h, k, s, e][f, h, k, j, s, e, h, f, k, j]
+
